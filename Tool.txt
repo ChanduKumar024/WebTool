@@ -1,2 +1,4 @@
 this is file num 1
 second tool
+third line added
+fourth
